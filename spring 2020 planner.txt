@@ -1,0 +1,14 @@
+ITCS 3112 - mod 4 quiz 2/18
+ACCT 2212 - Ch 8 hw due 2/18
+FILM 3051 - FMJ discussion 2/21
+HIST 1160 - 
+edited 2/17
+
+2001
+Clockwork orange
+Shining
+Eyes wide shut
+16224
+248955423911
+
+grayVal  = R*0.299+G*0.587+0.114*B
